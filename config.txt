@@ -1,6 +1,6 @@
 token=NDc3NjA3ODAwMDM0Mjk1ODIw.Dk-nyg.ws5o1Q5ZPsz1UxhiexHPcPtSvAk
 owner=246220920199446528
-prefix=*
-game=my.shoemakk.com/bot
+prefix=1
+game=𝓡 𝐒𝐐𝐔𝐀𝐃
 stayinchannel=true
 songinstatus=true
